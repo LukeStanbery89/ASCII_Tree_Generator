@@ -1,0 +1,6 @@
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\ASCII Tree Generator\ASCII Tree Generator\bin\Debug\ASCII Tree Generator.exe.config
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\ASCII Tree Generator\ASCII Tree Generator\bin\Debug\ASCII Tree Generator.exe
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\ASCII Tree Generator\ASCII Tree Generator\bin\Debug\ASCII Tree Generator.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\ASCII Tree Generator\ASCII Tree Generator\obj\Debug\ASCII Tree Generator.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\ASCII Tree Generator\ASCII Tree Generator\obj\Debug\ASCII Tree Generator.exe
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\ASCII Tree Generator\ASCII Tree Generator\obj\Debug\ASCII Tree Generator.pdb
